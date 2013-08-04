@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Moto GP Standings</title>
+  <style type="text/css">
+    body {
+      width: 384px;
+      padding: 0px;
+      margin: 0px;
+      font-family: sans-serif;
+    }
+    table {
+      padding: 2px;
+      width:380px ;
+      border: 0px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>MotoGP™ 2013</h1>
+<p>Top 5 riders after <b>9</b> races with <b>9</b> more to go.</p>
+
+<table>
+    
+    <tr>
+      <td><b>POS.</b></td>
+      <td><b>Rider</b></td>
+      <td><b>Manufacturer</b></td>
+      <td><b>Points</b></td>
+    </tr>
+
+    <tr>
+      <td>1</td>
+      <td>M. Marquez</td>
+      <td>Honda</td>
+      <td>163</td>
+    </tr>
+
+
+    <tr>
+      <td>2</td>
+      <td>D. Pedrosa</td>
+      <td>Honda</td>
+      <td>147</td>
+    </tr>
+
+
+    <tr>
+      <td>3</td>
+      <td>J. Lorenzo</td>
+      <td>Yamaha</td>
+      <td>137</td>
+    </tr>
+
+
+    <tr>
+      <td>4</td>
+      <td>V. Rossi</td>
+      <td>Yamaha</td>
+      <td>117</td>
+    </tr>
+
+
+    <tr>
+      <td>5</td>
+      <td>C. Crutchlow</td>
+      <td>Yamaha</td>
+      <td>116</td>
+    </tr>
+
+</table>
+<table>
+<tr>
+<td width=138><img src="http://littleprinter.netau.net/edition/motoGPQR.png"></td>
+<td><h2 align=center>Scan to read more at motogp.com</h2></td>
+</tr>
+</table>
+
+<p>Next round, <b>Indianapolis</b> - <i>August 16th 2013</i></br>
+<center><img src="http://littleprinter.netau.net/edition/circuits/indianapolis.png"></center></p>
+
+<h3>Did you know?</h3>
+
+<p>The first race at Indianapolis took place in 1909 and was a motorcycle race! MotoGP caught up in 2008.</p>
+
+</body>
+</html>
