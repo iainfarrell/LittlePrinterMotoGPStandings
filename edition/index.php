@@ -15,8 +15,8 @@
 	//	3: changes every month
 	//	4: different every time
 
-	eTag(1);
-	charset("Content-Type: text/html; charset=utf-8");
+	eTag(2);
+	charset();
 
 	// This must be be the first line of code on this page, otherwise you'll get a 'headers not sent' error
 
@@ -26,6 +26,7 @@
 
 	// Put your code under here:
 ?>
+
 <table>
     
     <tr>
@@ -77,13 +78,13 @@
 </table>
 <table>
 <tr>
-<td width=138><img src="http://littleprinter.netau.net/edition/motoGPQR.png"></td>
+<td width=138><img src="http://littleprinter.netau.net/motogp/edition/motoGPQR.png"></td>
 <td><h2 align=center>Scan to read more at motogp.com</h2></td>
 </tr>
 </table>
 
 <p>Next round, <b>Indianapolis</b> - <i>August 16th 2013</i></br>
-<center><img src="http://littleprinter.netau.net/edition/circuits/indianapolis.png"></center></p>
+<center><img src="http://littleprinter.netau.net/motogp/edition/circuits/indianapolis.png"></center></p>
 
 <h3>Did you know?</h3>
 
