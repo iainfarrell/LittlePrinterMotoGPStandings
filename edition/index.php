@@ -88,7 +88,7 @@
 
 <h3>Did you know?</h3>
 
-<p>The first ever held at Indianapolis was a motorcycle race in 1909. MotoGP caught up in 2008.</p>
+<p>The first event held at Indianapolis was a motorcycle race in 1909. MotoGP first raced there in 2008.</p>
 
 <?php 				
 	// Now include the footer
